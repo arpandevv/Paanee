@@ -14,8 +14,6 @@
 
 ### Onboarding & Home Dashboard
 <p align="center">
-  <img src="screenshots/onboarding.png" width="30%" alt="Onboarding Screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/dashboard.png" width="30%" alt="Dashboard Screen" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/log_intake.png" width="30%" alt="Custom Log Sheet" />
