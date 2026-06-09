@@ -1,0 +1,30 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+local.properties
+
+# Android Studio / IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+# Built APKs
+*.apk
+*.apks
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific exclusions
+/uidesigns/
+/screencap.png
+/captures/
+.externalNativeBuild/
+.cxx/
