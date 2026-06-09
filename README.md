@@ -1,6 +1,12 @@
-# Paanee 💧
+<p align="center">
+  <img src="screenshots/logo.png" width="120" height="120" alt="Paanee Logo" />
+</p>
 
-Paanee is a premium, modern hydration tracking app built with Android, Jetpack Compose, and Kotlin. Designed with a sleek, minimalist aesthetic featuring glassmorphism accents, soft radial gradient blobs, and responsive gamified progress tracking.
+<h1 align="center">Paanee 💧</h1>
+
+<p align="center">
+  Paanee is a premium, modern hydration tracking app built with Android, Jetpack Compose, and Kotlin. Designed with a sleek, minimalist aesthetic featuring glassmorphism accents, soft radial gradient blobs, and responsive gamified progress tracking.
+</p>
 
 ---
 
